@@ -42,16 +42,8 @@ My journey:
 ---
 
 ## 🚀 Featured Project
-
-### [Ismaran ](https://github.com/Gobler-code/Ismaran)
-
-A productivity application built with **vanilla JavaScript** that helps users capture, review, and retain key information efficiently.
-
-**What I Built:**
-- Intuitive note-taking interface with real-time updates
-- Local storage for data persistence
-- Clean, responsive UI/UX
-- Deployed and live in production
+📱 [Ismaran](https://github.com/Gobler-code/Ismaran)
+AI-powered study platform that transforms learning materials into interactive study tools.
 
 **Live Demo:** [recallify-uparjan.vercel.app](https://recallify-uparjan.vercel.app/)
 
