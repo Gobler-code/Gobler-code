@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Uparjan Gautam</h1>
+<h1 align="center"> Uparjan Gautam</h1>
 
 <p align="center">
   <strong>Full-Stack Developer in progress | AI & ML Enthusiast | Building the Future with Intelligence</strong>
@@ -21,24 +21,29 @@ My journey:
 - 📚 Self-taught through hands-on learning and experimentation
 - 🎯 Committed to mastering both **frontend** and **backend** with AI/ML capabilities
 
-
-
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- `JavaScript (ES6+)` `React` `HTML5` `CSS3` `Responsive Design`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
 
 **Backend & APIs:**
-- `Node.js` `REST APIs` `Git & Version Control`
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0091FF?style=for-the-badge&logo=api&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Project
 
-### 📱 [Ismaran ](https://github.com/Gobler-code/Ismaran)
+### [Ismaran ](https://github.com/Gobler-code/Ismaran)
 
 A productivity application built with **vanilla JavaScript** that helps users capture, review, and retain key information efficiently.
 
@@ -54,9 +59,15 @@ A productivity application built with **vanilla JavaScript** that helps users ca
 ---
 ## 🔗 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/uparjan-gautam-821894328/">🔗 LinkedIn</a> ·
-  <a href="mailto:gautamuparjan@email.com">📧 Email</a> ·
-  <a href="https://github.com/Gobler-code">💻 GitHub</a>
+ <a href="https://www.linkedin.com/in/uparjan-gautam-821894328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gautamuparjan@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Gobler-code">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 ---
 
