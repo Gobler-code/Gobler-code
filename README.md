@@ -42,12 +42,10 @@ My journey:
 ---
 
 ## 🚀 Featured Project
+
 📱 [Ismaran](https://github.com/Gobler-code/Ismaran)
 AI-powered study platform that transforms learning materials into interactive study tools.
 
-**Live Demo:** [recallify-uparjan.vercel.app](https://recallify-uparjan.vercel.app/)
-
-**Status:** ✅ Live & Functional | 🔄 Planning AI-powered features (smart organization, auto-tagging)
 ---
 ## 🔗 Let's Connect
 <p align="center">
