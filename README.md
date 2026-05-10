@@ -1,7 +1,7 @@
 <h1 align="center"> Uparjan Gautam</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer in progress | AI & ML Enthusiast | Building the Future with Intelligence</strong>
+  <strong>Full-Stack Developer in progress | AI & ML Enthusiast </strong>
 </p>
 
 <p align="center">
