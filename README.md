@@ -62,7 +62,7 @@ A productivity application built with **vanilla JavaScript** that helps users ca
  <a href="https://www.linkedin.com/in/uparjan-gautam-821894328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:gautamuparjan@email.com">
+  <a href="mailto:gautamuparjan@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Gobler-code">
