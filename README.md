@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a>
+  <a href="gautamuparjan@email.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/uparjan-gautam-821894328/">LinkedIn</a>
 </p>
 
 ---
@@ -19,7 +19,7 @@ I'm a self-taught developer focused on JavaScript and the React ecosystem. Curre
 
 ## Projects
 
-### [Recallify](https://github.com/Gobler-code/Recallify)
+### [Recallify](https://github.com/Gobler-code/Ismaran)
 > A productivity app to capture and retain key information.
 
 `JavaScript` `HTML` `CSS`
