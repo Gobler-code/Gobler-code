@@ -33,13 +33,14 @@ My journey:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
 
-**Backend & APIs:**
+
+**Backend, Databases & AI Integration:**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0091FF?style=for-the-badge&logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 ## 🚀 Featured Project
 
